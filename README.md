@@ -17,7 +17,7 @@ This repository gives the information about webpage development by displaying my
 - My name is Bhavani Pathuri
 - currently pursuing my masters in Applied Computer Science at Northwest Missouri State University
 
-![Family](https://github.com/pathuribhavani/aboutme/blob/master/family.jpg)
+![Family](http://eriefamilycenter.org/wp-content/uploads/2017/08/two.jpg)
 
 
    
