@@ -6,6 +6,6 @@
 This repository gives the information about webpage development by displaying my work.
 ## Recommended Tools
 1. [Github Account](https://github.com/pathuribhavani)- This is the account used to access and create the repositories.
-1. [Github Document](https://github.com/pathuribhavani/aboutme.git)
+1. [Github Desktop](https://desktop.github.com)
 
    
