@@ -8,7 +8,7 @@ This repository gives the information about webpage development by displaying my
 1. [Github Account](https://github.com/pathuribhavani)- This is the account used to access and create the repositories.
 1. [Github Desktop](https://desktop.github.com)- This is used to pull and push our work to the repository.
 1. [Notepad++](https://notepad-plus-plus.org/)- Text editor which is simple to edit and the language used is Markdown.
-1.[HTML Markdown](https://markdownmonster.west-wind.com/docs/_4sf0may9m.htm)- To learn the sorce code of HTML language
+1. [HTML Markdown](https://markdownmonster.west-wind.com/docs/_4sf0may9m.htm)- To learn the sorce code of HTML language
 ## Recommended Resources
 1. [JAVASCRIPT&JQUERY](http://javascriptbook.com/)- Book used to learn about javascript to make a website more interactive.
 1. [HTML Tutorials](https://www.w3schools.com/html/)- Used to create websites on html and css
