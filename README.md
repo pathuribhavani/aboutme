@@ -11,6 +11,7 @@ This repository gives the information about webpage development by displaying my
 ## Recommended Resources
 1. [JAVASCRIPT&JQUERY](http://javascriptbook.com/)- Book used to learn about javascript to make a website more interactive.
 1. [HTML Tutorials](https://www.w3schools.com/html/)- Used to create websites on html and css
+1. [GitHubPages](https://guides.github.com/activities/hello-world/)
 ## Contributors
 - My name is Bhavani Pathuri
 - currently pursuing my masters in Applied Computer Science at Northwest Missouri State University
