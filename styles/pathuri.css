@@ -1,17 +1,10 @@
 body{
-    font-family: 'Major Mono Display', monospace;
-}
-    header{
-    padding-top: 0.5cm;
-    border-style: solid;
+    /*font-family: 'Major Mono Display', monospace;*/
 }
 
 h1{
-    color: blue;
-    margin-left: 0.5cm;
-
+    border-style:solid;
+    padding-top: 1em;
+    background-color: #006747;
 }
 
-article{
-    
-}
