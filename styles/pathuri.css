@@ -1,15 +1,21 @@
 body{
     /*font-family: 'Major Mono Display', monospace;*/
 }
-body {
-    min-height: 75rem;
-    padding-top: 4.5rem;
-  }
 
 h1{
     border-style:solid;
     padding-top: 1em;
     background-color: #0000ff;
     color: white;
+}
+
+.important{
+    color: purple;
+
+}
+
+#myname {
+    color: red;
+
 }
 
